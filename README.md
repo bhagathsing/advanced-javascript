@@ -1,6 +1,3 @@
-echo "# advanced-javascript" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
+# advanced-javascript with advacned examples
+
 git remote add origin https://github.com/bhagathsing/advanced-javascript.git
-git push -u origin master
